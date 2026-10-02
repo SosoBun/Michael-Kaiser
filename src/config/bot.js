@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Blue Lock", // required by Discord API, not shown in the client
         state: "Warum schaust du dir mein Profil an? Bist du interessiert?",     // this is what people actually see
-        type: 5,               // Custom
+        type: 3,               // Custom
       },
     ],
   },
