@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Warum schaust du dir mein Profil an? Bist du interessiert?", // required by Discord API, not shown in the client
-        state: "...",     // this is what people actually see
+        name: "Blue Lock", // required by Discord API, not shown in the client
+        state: "Warum schaust du dir mein Profil an? Bist du interessiert?",     // this is what people actually see
         type: 5,               // Custom
       },
     ],
