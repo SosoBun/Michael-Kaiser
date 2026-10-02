@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "Blue Lock", // required by Discord API, not shown in the client
-        state: "Warum schaust du dir mein Profil an? Bist du interessiert?",     // this is what people actually see
-        type: 3,               // Custom
+        state: "Ich werde dich vernichten, Yoichi...",     // this is what people actually see
+        type: 5,               // Custom
       },
     ],
   },
